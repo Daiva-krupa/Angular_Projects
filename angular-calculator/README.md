@@ -2,7 +2,7 @@
 
 This is a **fully responsive** and **professionally designed** portfolio website built with **Angular and Bootstrap 5**. It showcases **skills, projects, education, and contact details** in an elegant UI.
 
-![Portfolio Preview](preview.png)
+![Portfolio Preview](Screenshot.png)
 
 ## 🚀 Features
 ✅ Fully Responsive & Mobile-Friendly  
